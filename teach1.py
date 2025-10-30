@@ -1,0 +1,6 @@
+teacher_name= input("enter the teacher name")
+subject=input("enter the subject")
+course_code=int(input("enter the course code")
+print("teacher name:",teacher_name)
+print("Subject:",subject)
+print("course code:",course_code)
